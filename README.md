@@ -1,1 +1,1 @@
-# projecteuler
+# projecteulerProject Euler's problems
